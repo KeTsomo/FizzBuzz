@@ -3,5 +3,4 @@ public class Main {
 //        FizzBuzz.main();
         FizzBuzz.doFizzBuzz(5);
     }
-
 }
